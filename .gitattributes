@@ -1,2 +1,0 @@
-Datasets/Accelerometer[[:space:]]Data[[:space:]]+[[:space:]]TAC/clean_participant_data/* filter=lfs diff=lfs merge=lfs -text
-Datasets/Accelerometer[[:space:]]Data[[:space:]]+[[:space:]]TAC/data.zip filter=lfs diff=lfs merge=lfs -text
